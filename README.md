@@ -40,7 +40,7 @@ Somethings about me:
 
 </details>
 
-<details open> 
+<details> 
  <summary><b>Checkout Some of my projects 🤗</b></summary>
 
 <br>
