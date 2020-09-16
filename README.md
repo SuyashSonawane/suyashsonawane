@@ -15,7 +15,7 @@ Somethings about me:
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
-<p align = "center">
+<p>
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://suyashsonawane.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SuyashYSonawane) 
@@ -33,15 +33,19 @@ Somethings about me:
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=suyashsonawane&show_icons=true&theme=tokyonight&line_height=27">
+<p align>
+  <img src = "https://github-readme-stats.vercel.app/api?username=suyashsonawane">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsonawane&hide=css,js,html&theme=tokyonight"> -->
 </p>
 
 </details>
 
 <details open> 
- <summary><b>Checkout my latest Medium articles</b></summary>
+ <summary><b>Checkout Some of my projects</b></summary>
+
+[![AI Dancer with GANS](https://img.youtube.com/vi/kDGQDVmToVI/0.jpg)](https://www.youtube.com/watch?v=kDGQDVmToVI)
+
+[![Driving AID](https://img.youtube.com/vi/1P_GYSFTXnc/0.jpg)](https://www.youtube.com/watch?v=1P_GYSFTXnc)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0" alt="Recent Article 0"></a>
 
