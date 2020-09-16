@@ -41,8 +41,9 @@ Somethings about me:
 </details>
 
 <details open> 
- <summary><b>Checkout Some of my projects</b></summary>
+ <summary><b>Checkout Some of my projects 🤗</b></summary>
 
+<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=kDGQDVmToVI">
 <img src="https://img.youtube.com/vi/kDGQDVmToVI/0.jpg" alt="drawing" width="200" alt="AI Dancer with GANS"/>
 </a>
