@@ -43,9 +43,12 @@ Somethings about me:
 <details open> 
  <summary><b>Checkout Some of my projects</b></summary>
 
-[![AI Dancer with GANS](https://img.youtube.com/vi/kDGQDVmToVI/0.jpg)](https://www.youtube.com/watch?v=kDGQDVmToVI)
-
-[![Driving AID](https://img.youtube.com/vi/1P_GYSFTXnc/0.jpg)](https://www.youtube.com/watch?v=1P_GYSFTXnc)
+<a target="_blank" href="https://www.youtube.com/watch?v=kDGQDVmToVI">
+<img src="https://img.youtube.com/vi/kDGQDVmToVI/0.jpg" alt="drawing" width="200" alt="AI Dancer with GANS"/>
+</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=1P_GYSFTXnc">
+<img src="https://img.youtube.com/vi/1P_GYSFTXnc/0.jpg" alt="drawing" width="200" alt="Driving AID"/>
+</a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0" alt="Recent Article 0"></a>
 
