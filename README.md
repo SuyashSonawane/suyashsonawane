@@ -7,7 +7,7 @@ Somethings about me:
 - 🦸‍♂️ Lead at [DSC PCCoE](https://twitter.com/dscpccoe)
 - 👨‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
 - 🔭 I’m currently working on Fake Video Detection as AI Intern at CDAC
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently learning GANS
 - 👯 I’m looking to collaborate on DL Projects
 - ⚡ Fun fact: Foodie,
   日本語を学ぶ
