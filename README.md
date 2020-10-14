@@ -34,7 +34,7 @@ Somethings about me:
 <br>
 
 <p align>
-  <img src = "https://github-readme-stats.vercel.app/api?username=suyashsonawane">
+  <img src = "https://github-readme-stats.vercel.app/api?username=suyashsonawane&count_private=true">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsonawane&hide=css,js,html&theme=tokyonight"> -->
 </p>
 
