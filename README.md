@@ -41,6 +41,14 @@ Somethings about me:
 </details>
 
 <details> 
+ <summary><b>Summary 👨‍💻</b></summary>
+
+<br>
+[Metrics](https://metrics.lecoq.io/suyashsonawane?template=classic&languages=1&introduction=1&lines=1&achievements=1&isocalendar=1&activity=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+<br>
+</details>
+
+<details> 
  <summary><b>Checkout Some of my projects 🤗</b></summary>
 
 <br>
@@ -56,15 +64,6 @@ Somethings about me:
 <img src="https://img.youtube.com/vi/uECdm-_oA1I/0.jpg" alt="drawing" width="200" alt="Driving AID"/>
 </a>
 <br>
-<br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/0" alt="Recent Article 0"></a>
-<br>
-<br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/1" alt="Recent Article 1"></a>
-<br>
-<br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suyashsonawane007/2" alt="Recent Article 2"></a>
-
 </details>
 
 ---
