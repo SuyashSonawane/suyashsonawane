@@ -44,7 +44,7 @@ Somethings about me:
  <summary><b>Summary 👨‍💻</b></summary>
 
 <br>
-[Metrics](https://metrics.lecoq.io/suyashsonawane?template=classic&languages=1&introduction=1&lines=1&achievements=1&isocalendar=1&activity=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/suyashsonawane?template=classic&languages=1&introduction=1&lines=1&achievements=1&isocalendar=1&activity=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 <br>
 </details>
 
