@@ -1,16 +1,15 @@
 ## Hi there 👋 I'm Suyash
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, JS, Tensorflow. I am actively looking for opportunities in Data Science.
+I am a developer who is passionate about Full Stack development. I mainly work on MERN Stack. Apart from that few tech that I enjoy working in are Python, JS, Tensorflow. I am also interested in AI ML
 
 Somethings about me:
 
-- 🦸‍♂️ Lead at [DSC PCCoE](https://twitter.com/dscpccoe)
-- 👨‍💻 Co-Founder of [DevsCollab](https://github.com/devscollab)
-- 🔭 I’m currently working on Fake Video Detection as AI Intern at CDAC
-- 🌱 I’m currently learning GANS
-- 👯 I’m looking to collaborate on DL Projects
-- ⚡ Fun fact: Foodie,
-  日本語を学ぶ
+- 💻 Working as a Full Stack Intern at Coriolis Technologies
+- 🦸‍♂️ Lead 2020 at Google Developer Student Club Pimpri Chinchwad College of Engineering
+- 🦸‍♂️ Microsoft Student Ambassador
+- 👨‍💻 Co-Founder of DevsCollab
+- 🔭 Worked on GANS for Fake Video Detection as AI Intern at CDAC
+- ⚡ Fun fact: Foodie, 日本語を学ぶ
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
@@ -19,7 +18,7 @@ Somethings about me:
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://suyashsonawane.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SuyashYSonawane) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://towardsdatascience.com/@suyashsonawane007)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://towardsdatascience.com/@suyashsonawane)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suyash-sonawane-44661417b/)
 
 </p>
