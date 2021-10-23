@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm Suyash
 
 I am a developer who is passionate about Full Stack development. I mainly work on MERN Stack. Apart from that few tech that I enjoy working in are Python, JS, Tensorflow. I am also interested in AI ML
+<br/>
+<br/>
+Visitors <br/>
+[<img src ="https://profile-counter.glitch.me/suyashsonawane/count.svg" title="">](https://suyashsonawane.github.io/)
+<br/>
 
 Somethings about me:
 
