@@ -9,7 +9,8 @@ Visitors <br/>
 
 Somethings about me:
 
-- 💻 Working as a Full Stack Intern at Coriolis Technologies
+- 💻 Joining <a href="https://www.browserstack.com/">BrowserStack</a> as SDE Intern
+- 💻 Worked as a Full Stack Intern at <a href="https://www.coriolis.co.in/">Coriolis Technologies</a>
 - 🦸‍♂️ Lead 2020 at Google Developer Student Club Pimpri Chinchwad College of Engineering
 - 🦸‍♂️ Microsoft Student Ambassador
 - 👨‍💻 Co-Founder of DevsCollab
