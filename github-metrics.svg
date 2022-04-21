@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1912" class="">
     <defs>
         <style/>
     </defs>
@@ -1367,6 +1367,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">browserstack/realmobile</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">LIVE_8569_IOS_PERSIST</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6988f70</div>
+                                        <div class="message">removed whitespace</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
@@ -1428,104 +1448,6 @@
                                     <div class="commit">
                                         <div class="sha">#ab14645</div>
                                         <div class="message">fixed conflicts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 898 commits in
-                                        <span class="repo">browserstack/railsApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">LIVE_7945_IMPROVE_API</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#743e2de</div>
-                                        <div class="message">Changes done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071d375</div>
-                                        <div class="message">API routes issue resolved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7687454</div>
-                                        <div class="message">Build issue fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2f093f</div>
-                                        <div class="message">test commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cedbdd</div>
-                                        <div class="message">Region field added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5802ca5</div>
-                                        <div class="message">seeds removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e544647</div>
-                                        <div class="message">Newline added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3726087</div>
-                                        <div class="message">Model calls mocked in rspecs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a5ab19</div>
-                                        <div class="message">Routes modified</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfaca05</div>
-                                        <div class="message">iccid column added in virtual_number table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#113d4e3</div>
-                                        <div class="message">Api issues resolved - main controller logs added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9f4066</div>
-                                        <div class="message">Revert "API routes improved"
-
-This reverts commit 8e5daae0b117eabcf3e6dff1c9c8836a292d66da.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e5daae</div>
-                                        <div class="message">API routes improved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00811e0</div>
-                                        <div class="message">Application_record deleted</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#068695c</div>
-                                        <div class="message">Index method removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fe1f88</div>
-                                        <div class="message">Staging issues fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3898fb3</div>
-                                        <div class="message">testing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64c67a8</div>
-                                        <div class="message">testing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08d45f8</div>
-                                        <div class="message">To test on staging env</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67147ef</div>
-                                        <div class="message">Esim implementation test commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -1696,7 +1618,7 @@ This reverts commit 8e5daae0b117eabcf3e6dff1c9c8836a292d66da.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2120,7 +2042,7 @@ This reverts commit 8e5daae0b117eabcf3e6dff1c9c8836a292d66da.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 18:02:25 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 19:00:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
