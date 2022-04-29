@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2552" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2235" class="">
     <defs>
         <style/>
     </defs>
@@ -1331,6 +1331,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">browserstack/railsApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">LIVE_8602_update_api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#032941e</div>
+                                        <div class="message">updated upload method</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1472,102 +1492,6 @@
                                         <span class="code">LIVE_8602_update_api</span>
                                         in
                                         <span class="repo">browserstack/railsApp</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 233 commits in
-                                        <span class="repo">browserstack/railsApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">LIVE_8494_PM_tools_instrumentation_new</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40f43be</div>
-                                        <div class="message">fixed edge case</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7750c02</div>
-                                        <div class="message">using variables for the session timeout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b953a9a</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master' into OS_6466_pending_invoice_case</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2c5df5</div>
-                                        <div class="message">Merge branch 'LIVE_8268_checklist_dashboard_changes_timeout_fixes' into LIVE_8268-checklist_dashboard_changes_followup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8893ae1</div>
-                                        <div class="message">added timer constant to UI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1607d01</div>
-                                        <div class="message">add timeouts to live globals</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f4803e</div>
-                                        <div class="message">dev complete</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c115e2</div>
-                                        <div class="message">changes for live checklist timer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adfc52c</div>
-                                        <div class="message">temp changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b233202</div>
-                                        <div class="message">add logic to override timeout for checklist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fb9936</div>
-                                        <div class="message">added message fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e85535</div>
-                                        <div class="message">fixed request id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ee7685</div>
-                                        <div class="message">fixed issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05c42bd</div>
-                                        <div class="message">Added flag for useIOSConnectTimeImprovementLogic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39f5eae</div>
-                                        <div class="message">added notification flow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fba487f</div>
-                                        <div class="message">added rspec</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c09745</div>
-                                        <div class="message">changed date logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85fc2db</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master' into OS_6466_pending_invoice_case</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a2cd14</div>
-                                        <div class="message">change in logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#549de9b</div>
-                                        <div class="message">added in billing communication</div>
                                     </div>
                                 </div>
                             </section>
@@ -2162,7 +2086,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2022, 15:49:14 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 16:45:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
