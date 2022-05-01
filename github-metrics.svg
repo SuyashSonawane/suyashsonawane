@@ -1799,7 +1799,7 @@ fixed API response</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 48.6k out of 90m users</span>
+                                    <span class="gh">ranked 48.7k out of 90m users</span>
                                 </div>
                                 <div class="text">Followed by 128 users</div>
                             </div>
@@ -2039,7 +2039,7 @@ fixed API response</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2022, 16:45:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 May 2022, 18:00:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
