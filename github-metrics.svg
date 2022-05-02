@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1999" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2032" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1822 Commits
+                            1823 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1357,21 +1357,29 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 4 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">devliv_drop_may-1</span></div>
+                                    <div>on branch <span class="code">drop_devliv_29th_april</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d3f4c27</div>
-                                        <div class="message">Merge pull request #73492 from browserstack/LIVE_8602_update_api
+                                        <div class="sha">#f5c7374</div>
+                                        <div class="message">Merge pull request #73505 from browserstack/LIVE_8602_update_api
 
-fixed oauth</div>
+Live 8602 update api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cd3889</div>
+                                        <div class="message">added route</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#578406e</div>
                                         <div class="message">fixed oauth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#934d022</div>
+                                        <div class="message">fixed API response</div>
                                     </div>
                                 </div>
                             </section>
@@ -1384,12 +1392,12 @@ fixed oauth</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#73492 fixed oauth</span>
+                                        <span class="issue">#73505 Live 8602 update api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">browserstack/railsApp</span></div>
-                                    <div>1 file changed <span class="code">++13 --5</span></div>
+                                    <div>3 files changed <span class="code">++17 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1401,12 +1409,12 @@ fixed oauth</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#73492 fixed oauth</span>
+                                        <span class="issue">#73505 Live 8602 update api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">browserstack/railsApp</span></div>
-                                    <div>1 file changed <span class="code">++13 --5</span></div>
+                                    <div>3 files changed <span class="code">++17 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1424,8 +1432,8 @@ fixed oauth</div>
                                 <div class="details">
                                     <div>on branch <span class="code">LIVE_8602_update_api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#578406e</div>
-                                        <div class="message">fixed oauth</div>
+                                        <div class="sha">#0cd3889</div>
+                                        <div class="message">added route</div>
                                     </div>
                                 </div>
                             </section>
@@ -1444,14 +1452,14 @@ fixed oauth</div>
                                 <div class="details">
                                     <div>on branch <span class="code">devliv_drop_may-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66d6580</div>
-                                        <div class="message">Merge pull request #73491 from browserstack/LIVE_8602_update_api
+                                        <div class="sha">#d3f4c27</div>
+                                        <div class="message">Merge pull request #73492 from browserstack/LIVE_8602_update_api
 
-fixed API response</div>
+fixed oauth</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#934d022</div>
-                                        <div class="message">fixed API response</div>
+                                        <div class="sha">#578406e</div>
+                                        <div class="message">fixed oauth</div>
                                     </div>
                                 </div>
                             </section>
@@ -1693,7 +1701,7 @@ fixed API response</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="145.65326633165827 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.4321608040201 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1721,7 +1729,7 @@ fixed API response</div>
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 188 pull requests</div>
+                                <div class="text">Opened 189 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2046,7 +2054,7 @@ fixed API response</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2022, 11:00:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 2 May 2022, 11:53:24 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
