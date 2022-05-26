@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2032" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2382" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.field.license.details{display:flex;justify-content:space-between}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}.licenses .column .title{font-weight:600;margin-left:15px}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1891 Commits
+                            1893 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1372,29 +1372,41 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 7 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">drop_devliv_25th_may</span></div>
+                                    <div>on branch <span class="code">k8s_devlse_drop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#baf9842</div>
-                                        <div class="message">Merge pull request #75203 from browserstack/LIVE_99999_intern_project_poc
+                                        <div class="sha">#4afa3a9</div>
+                                        <div class="message">Merge pull request #75319 from browserstack/LIVE_99999_intern_project_poc
 
 Live 99999 intern project poc</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0d5e9f7</div>
-                                        <div class="message">canvas fix</div>
+                                        <div class="sha">#7be7a79</div>
+                                        <div class="message">flag [testing required]</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fdcdd6c</div>
-                                        <div class="message">added 2 device UI</div>
+                                        <div class="sha">#c267a5a</div>
+                                        <div class="message">two stream added [testing required]</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6e5a987</div>
-                                        <div class="message">removed charger, made space for 2 devices</div>
+                                        <div class="sha">#4ba5942</div>
+                                        <div class="message">flags added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c63fff0</div>
+                                        <div class="message">pre-stage fencing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ff52b8</div>
+                                        <div class="message">Merge branch 'LIVE_99999_intern_project_poc' of https://github.com/browserstack/railsApp into LIVE_99999_intern_project_poc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f269b5</div>
+                                        <div class="message">two session in two tabs</div>
                                     </div>
                                 </div>
                             </section>
@@ -1407,12 +1419,12 @@ Live 99999 intern project poc</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#75203 Live 99999 intern project poc</span>
+                                        <span class="issue">#75319 Live 99999 intern project poc</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">browserstack/railsApp</span></div>
-                                    <div>9 files changed <span class="code">++183 --23</span></div>
+                                    <div>9 files changed <span class="code">++3914 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1424,12 +1436,12 @@ Live 99999 intern project poc</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#75203 Live 99999 intern project poc</span>
+                                        <span class="issue">#75319 Live 99999 intern project poc</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">browserstack/railsApp</span></div>
-                                    <div>9 files changed <span class="code">++183 --23</span></div>
+                                    <div>9 files changed <span class="code">++3914 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1440,21 +1452,91 @@ Live 99999 intern project poc</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 365 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">k8s_devlse_drop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#758f278</div>
-                                        <div class="message">Merge pull request #75187 from browserstack/LIVE_99999_intern_project_poc
-
-canvas fix</div>
+                                        <div class="sha">#7604098</div>
+                                        <div class="message">Export on demand logs keys in player.html</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0d5e9f7</div>
-                                        <div class="message">canvas fix</div>
+                                        <div class="sha">#877dfb1</div>
+                                        <div class="message">Backend API created: /update_device_log_level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#665208b</div>
+                                        <div class="message">master merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6363be2</div>
+                                        <div class="message">master merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2d5f05</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into EA-3269-modify-parallel-allocation-modal-team-capping</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05cdf2a</div>
+                                        <div class="message">Create helper to update device logs user property</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67cb917</div>
+                                        <div class="message">Redis flag for on-demand pusher logs flow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1ba884</div>
+                                        <div class="message">EA-3269: rename all the files, contants and touch points from parallels to licenses</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39a135c</div>
+                                        <div class="message">remove: is_udac_include methodfrom automation session</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16b7b6</div>
+                                        <div class="message">update: spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d92d4d</div>
+                                        <div class="message">remove: joins and includes queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7213e7d</div>
+                                        <div class="message">add: default value method argument</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82fc3b2</div>
+                                        <div class="message">update: spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88e4656</div>
+                                        <div class="message">fix: use includes instead of joins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35a004c</div>
+                                        <div class="message">fix: rds map</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0a039f</div>
+                                        <div class="message">update: spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#facba59</div>
+                                        <div class="message">fix: rds iops increase due to map</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c732b64</div>
+                                        <div class="message">Revert "Revert "Ace 9909 pre master""</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63dac70</div>
+                                        <div class="message">converting-exp-to-feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#047e975</div>
+                                        <div class="message">converting-exp-to-feature</div>
                                     </div>
                                 </div>
                             </section>
@@ -1467,12 +1549,12 @@ canvas fix</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#75187 canvas fix</span>
+                                        <span class="issue">#75317 Lse 542 windows connect time</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">browserstack/railsApp</span></div>
-                                    <div>1 file changed <span class="code">++3 --0</span></div>
+                                    <div>172 files changed <span class="code">++3794 --1472</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1713,7 +1795,7 @@ canvas fix</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5833333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.6166666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1741,7 +1823,7 @@ canvas fix</div>
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 205 pull requests</div>
+                                <div class="text">Opened 207 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2066,7 +2148,7 @@ canvas fix</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 12:47:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 13:55:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
