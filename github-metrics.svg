@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1965" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2891" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3287 Commits
+                            3288 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            306 issue comments
+                            307 issue comments
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.19m added, 967k removed
+                                    1.43m added, 1.01m removed
                                 </div>
                             </section>
                             <section>
@@ -1383,15 +1383,93 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 170 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">LIVE_10998_vscode_instrumentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ce60db</div>
-                                        <div class="message">added rspec</div>
+                                        <div class="sha">#79b6d76</div>
+                                        <div class="message">added TM product line items cart</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d579cb2</div>
+                                        <div class="message">Merge branch 'PCP_6192_Test_Management_Launch' of github.com:browserstack/railsApp into PCP_6192_Test_Management_Launch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24f751b</div>
+                                        <div class="message">added test management product line item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2acc41c</div>
+                                        <div class="message">added test management product line item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b91a23a</div>
+                                        <div class="message">Merge branch 'PCP_6192_Test_Management_Launch' into PCP_6201_tm_plan_creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f074344</div>
+                                        <div class="message">Merge branch 'master' into PCP_6192_Test_Management_Launch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0133bd</div>
+                                        <div class="message">code review changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89ec98e</div>
+                                        <div class="message">intial plan creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e2a696</div>
+                                        <div class="message">added schema changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e20cfb3</div>
+                                        <div class="message">code review changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8527da</div>
+                                        <div class="message">initial commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46748c8</div>
+                                        <div class="message">Merge branch 'master' into ASI_5190_toggle_backend_changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45d9680</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into APS-7107-fix-wrong-smd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fbfb4b</div>
+                                        <div class="message">Merge pull request #100302 from browserstack/master
+
+master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3af291d</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into APS-7107-fix-wrong-smd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af70265</div>
+                                        <div class="message">ruby</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f039d3b</div>
+                                        <div class="message">query only if different</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b8838d</div>
+                                        <div class="message">handle stale redis entry in stop check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e09825</div>
+                                        <div class="message">Merge branch 'master' into ASI_5190_toggle_backend_changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb48d5b</div>
+                                        <div class="message">add: toggle</div>
                                     </div>
                                 </div>
                             </section>
@@ -1403,16 +1481,110 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 184 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">LIVE_10998_vscode_instrumentation</span></div>
+                                    <div>on branch <span class="code">LIVE_10886_scrap_live_new_update_res_logic_ld</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9eadba5</div>
-                                        <div class="message">added rspec</div>
+                                        <div class="sha">#79b6d76</div>
+                                        <div class="message">added TM product line items cart</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#d579cb2</div>
+                                        <div class="message">Merge branch 'PCP_6192_Test_Management_Launch' of github.com:browserstack/railsApp into PCP_6192_Test_Management_Launch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24f751b</div>
+                                        <div class="message">added test management product line item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2acc41c</div>
+                                        <div class="message">added test management product line item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b91a23a</div>
+                                        <div class="message">Merge branch 'PCP_6192_Test_Management_Launch' into PCP_6201_tm_plan_creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f074344</div>
+                                        <div class="message">Merge branch 'master' into PCP_6192_Test_Management_Launch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0133bd</div>
+                                        <div class="message">code review changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89ec98e</div>
+                                        <div class="message">intial plan creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e2a696</div>
+                                        <div class="message">added schema changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e20cfb3</div>
+                                        <div class="message">code review changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8527da</div>
+                                        <div class="message">initial commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46748c8</div>
+                                        <div class="message">Merge branch 'master' into ASI_5190_toggle_backend_changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45d9680</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into APS-7107-fix-wrong-smd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fbfb4b</div>
+                                        <div class="message">Merge pull request #100302 from browserstack/master
+
+master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3af291d</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into APS-7107-fix-wrong-smd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af70265</div>
+                                        <div class="message">ruby</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f039d3b</div>
+                                        <div class="message">query only if different</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b8838d</div>
+                                        <div class="message">handle stale redis entry in stop check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e09825</div>
+                                        <div class="message">Merge branch 'master' into ASI_5190_toggle_backend_changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb48d5b</div>
+                                        <div class="message">add: toggle</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#98923 Os 9032 live local url exp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by vipulchakravarthy in <span class="repo">browserstack/railsApp</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1423,33 +1595,92 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 241 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">LIVE_10998_vscode_instrumentation</span></div>
+                                    <div>on branch <span class="code">LIVE_10886_scrap_live_new_update_res_logic_ld</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e1047c</div>
-                                        <div class="message">fixing userId</div>
+                                        <div class="sha">#2ca9d7a</div>
+                                        <div class="message">added check</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#101978 Added a IS param to conditionally override CSP header</span>
+                                    <div class="commit">
+                                        <div class="sha">#7858813</div>
+                                        <div class="message">add worker q in staging worker configs</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ParthPrajapati43 in <span class="repo">browserstack/railsApp</span></div>
-                                    <div class="comment">RUN_LD_FLAG_CHECK</div>
+                                    <div class="commit">
+                                        <div class="sha">#7ee5096</div>
+                                        <div class="message">add rescue in worker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16b508e</div>
+                                        <div class="message">minor fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09f1b4f</div>
+                                        <div class="message">bug fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e8dfb7</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master' into LIVE_10814_qle_instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df9ec08</div>
+                                        <div class="message">made logic dry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2f4ab9</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/browserstack/railsApp into AFD_2236_zip_file_impl_chrome_ext</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21c715a</div>
+                                        <div class="message">added respecs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e593a5</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/browserstack/railsApp into AFD_2236_zip_file_impl_chrome_ext</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6877897</div>
+                                        <div class="message">checked last value in DB</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2e5c58</div>
+                                        <div class="message">added API for QLE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d1dd66</div>
+                                        <div class="message">added LD instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67aef71</div>
+                                        <div class="message">chore: add zip file support for extension</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#090429e</div>
+                                        <div class="message">revamp `recommentdatio/log` endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdbc3ed</div>
+                                        <div class="message">fix and optimise: `user_added` attr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7886924</div>
+                                        <div class="message">improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f7ed3e</div>
+                                        <div class="message">add `user_added` attribute to quick start browsers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1758b9</div>
+                                        <div class="message">initial implementaion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee923fd</div>
+                                        <div class="message">added experiment as global constant</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1655,7 +1886,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.0775 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1683,7 +1914,7 @@
                                     <span class="prefix">Super</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 500 pull requests</div>
+                                <div class="text">Opened 501 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1912,7 +2143,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2m out of 408m repositories</span>
+                                    <span class="gh">ranked 1.98m out of 408m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2043,7 +2274,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2023, 16:42:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Jun 2023, 17:58:50 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
