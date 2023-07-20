@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1115" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1432" class="">
     <defs>
         <style/>
     </defs>
@@ -1304,6 +1304,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 41 commits in
+                                        <span class="repo">browserstack/railsApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">LIVE_11133_new_IS_approach</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ef577e2</div>
+                                        <div class="message">modified query to use row number ober partition and select the topmost row</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4002e34</div>
+                                        <div class="message">Nil conditions added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#399202a</div>
+                                        <div class="message">Check for sync URLs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a74aaf6</div>
+                                        <div class="message">minor changes to query</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08c05b7</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into LSE_1556_fsi_instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29630c4</div>
+                                        <div class="message">Added total time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5046f4f</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into LSE_1556_fsi_instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f0f2d7</div>
+                                        <div class="message">fix rspec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#391a33b</div>
+                                        <div class="message">Fixed spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a16ec1</div>
+                                        <div class="message">Updated spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5341812</div>
+                                        <div class="message">Added spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4423088</div>
+                                        <div class="message">use hashed_id related to the max url selected</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfac6b3</div>
+                                        <div class="message">minor fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a29719</div>
+                                        <div class="message">added entire domain for last url</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9c3313</div>
+                                        <div class="message">Use K8S peer for local env mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a018dd</div>
+                                        <div class="message">Use K8S signalling server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3eaf3a1</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into LSE_1556_fsi_instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b91295e</div>
+                                        <div class="message">Merge branch 'master' of github.com:browserstack/railsApp into LSE_1556_fsi_instrumentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2926f2e</div>
+                                        <div class="message">Added connect time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ccaba9</div>
+                                        <div class="message">Added instrumentation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">browserstack/railsApp</span>
                                     </div>
@@ -1377,26 +1473,6 @@ Live 11133 new is approach</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">browserstack/railsApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">LIVE_11133_new_IS_approach</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7adc55</div>
-                                        <div class="message">removed api call</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1420,7 +1496,7 @@ Live 11133 new is approach</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2023, 11:48:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jul 2023, 12:43:49 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
