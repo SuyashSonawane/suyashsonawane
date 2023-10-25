@@ -1760,7 +1760,7 @@ more info  https://nodejs.org/api/os.html#ostmpdir
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 703k out of 72.8m repositories</span>
+                                    <span class="gh">ranked 703k out of 62.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 37 stars</div>
                             </div>
@@ -1812,7 +1812,7 @@ more info  https://nodejs.org/api/os.html#ostmpdir
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2023, 22:42:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 23:47:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
