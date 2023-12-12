@@ -1343,11 +1343,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#111572 LOS-159 [Bucket 4] [/admin/local/manage_dedicated_ip] new UI + endpoint to show dedicated repeater info</span>
+                                        <span class="issue">#111776 LOS complete implementation</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by pri-gadhiya in <span class="repo">browserstack/railsApp</span></div>
+                                    <div>opened by AnandGH5 in <span class="repo">browserstack/railsApp</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1359,11 +1359,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#116 LOS-169: SQL RAW query using Prisma</span>
+                                        <span class="issue">#111572 LOS-159 [Bucket 4] [/admin/local/manage_dedicated_ip] new UI + endpoint to show dedicated repeater info</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by TamsilAmani in <span class="repo">browserstack/headquaters</span></div>
+                                    <div>opened by pri-gadhiya in <span class="repo">browserstack/railsApp</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1453,7 +1453,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 144k out of 126m users</span>
+                                    <span class="gh">ranked 144k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 110 public repositories</div>
                             </div>
@@ -1615,7 +1615,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 62.5k out of 126m users</span>
+                                    <span class="gh">ranked 62.5k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 148 users</div>
                             </div>
@@ -1751,7 +1751,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 715k out of 45.5m repositories</span>
+                                    <span class="gh">ranked 715k out of 43m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 37 stars</div>
                             </div>
@@ -1803,7 +1803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 16:42:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 17:58:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
