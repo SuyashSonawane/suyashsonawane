@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1347" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="966" class="">
     <defs>
         <style/>
     </defs>
@@ -1341,102 +1341,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 314 commits in
-                                        <span class="repo">browserstack/a11y-engine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">AXE-1216-audio-or-text-description-for-video-based-content</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6af03c1</div>
-                                        <div class="message">Addressed PR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d5fae7</div>
-                                        <div class="message">Addressed PR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28d50d4</div>
-                                        <div class="message">Addressed PR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63b7699</div>
-                                        <div class="message">Addressed PR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#274c1b2</div>
-                                        <div class="message">Addressed PR comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09e5941</div>
-                                        <div class="message">Fixed modal AT issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0eb5f83</div>
-                                        <div class="message">Fixed issues for undefined textrects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61f5bd0</div>
-                                        <div class="message">Fixed partial obscured issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02f74bf</div>
-                                        <div class="message">updated tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1c9476</div>
-                                        <div class="message">Removed logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d325ea</div>
-                                        <div class="message">form at init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55c737b</div>
-                                        <div class="message">Fixed issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8dda09</div>
-                                        <div class="message">Fixed issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fc7d41</div>
-                                        <div class="message">Merge branch 'release-3.5.0' into AXE-867-focus-obscured-checks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ece6f1</div>
-                                        <div class="message">Added rules in keyboard AT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cebe97</div>
-                                        <div class="message">Added rules in keyboard AT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e51750e</div>
-                                        <div class="message">WCAG check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55eda12</div>
-                                        <div class="message">Added test cases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#422d13b</div>
-                                        <div class="message">Updated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#641de1b</div>
-                                        <div class="message">Added rule focus-obscured-enhanced</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1460,7 +1364,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2025, 09:54:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2025, 10:50:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
